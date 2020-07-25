@@ -1,0 +1,20 @@
+/*lo llamo desde index.js*/
+body{
+    background-color: #58bac9;
+}
+.card{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #58bac9;
+    color: #ffffff;
+    -webkit-box-shadow: 0px 18px 31px 4px rgba(0,0,0,0.69);
+    -moz-box-shadow: 0px 18px 31px 4px rgba(0,0,0,0.69);
+    box-shadow: 0px 18px 31px 4px rgba(0,0,0,0.69);
+}
+.list-group{
+    margin-bottom: none;
+}
+.list-group-item{
+    background-color: #58bac9;
+    color: #ffffff;
+    border-style: none;
+}
